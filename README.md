@@ -1,10 +1,10 @@
-# Web Development Project 4 - *Name of App Here*
+# Web Development Project 4 - *Cat API*
 
-Submitted by: **Your Name Here**
+Submitted by: **Dang Cuong Nguyen**
 
-This web app: **insert description**
+This web app: **Cat**
 
-Time spent: **X** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
@@ -41,13 +41,13 @@ The following **additional** features are implemented:
 * [ ] List anything else that you added to improve the site's functionality!
 
 ## Video Walkthrough
+![chrome-capture-2025-3-28](https://github.com/user-attachments/assets/38390467-57f8-41a7-a947-9d2813f5e9f3)
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Chrome Capture - Gif & Screenshot tool
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
